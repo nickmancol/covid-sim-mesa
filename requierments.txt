@@ -1,0 +1,6 @@
+celluloid
+jupyterlab
+matplotlib
+mesa
+pandas
+networkx
