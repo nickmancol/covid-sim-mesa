@@ -1,2 +1,2 @@
 # covid-sim-mesa
-Simple Covid sim
+Simple Covid simulation using Agent Base Modeling with Mesa framework.
